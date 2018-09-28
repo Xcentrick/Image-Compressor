@@ -1,2 +1,2 @@
-# angularSamples
+# Image Compressor
 Samples 
